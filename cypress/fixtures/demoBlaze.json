@@ -1,0 +1,17 @@
+{
+    "firstName" : "Sasko31",
+    "lastName" : "Arsovski",
+    "emailAddress" : "saskotest@test",
+    "password" : "test1234", 
+    "laptopName" : "Sony vaio i7",
+    "laptopPrice" : "790",
+    "monitorName" : "ASUS Full HD",
+    "monitorPrice" : "230",
+    "totalPrice" : "1020",
+    "Country" : "Macedonia",
+    "City" : "Veles",
+    "Credit card" : "01236547896320147",
+    "Month" : "April",
+    "Year" : "2025",
+    "successfulPurchaseMessage" : "Thank you for your purchase!"
+}
